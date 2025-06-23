@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Machine learning
 - 💞️ I’m looking to collaborate on Data science, Mathematics
-- 📫 How to reach me  :QQ:1464037044  WeChat:hsd604
+- 📫 How to reach me  :QQ:1464037044  WeChat:polyu32g
 
 <!---
 liu-qingyuan/liu-qingyuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
